@@ -2,5 +2,6 @@
 ## Patrones de Diseño
 ### Singleton
 ### Decorators
-    #### Desacoplar clases
+    Desacoplar clases
 ### Factory
+    Clases abstractas, ABC
